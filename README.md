@@ -1,8 +1,6 @@
 ## Oii, aqui é a Ka e espero que esteja bem! ✨
 
-Sou apaixonada por viver novas experiências, conhecer novos lugares, pessoas e adquirir conhecimentos!
-
-E essa paixão me levou a estar me formando como desenvolvedora full-stack pela [Driven](https://driveneducation.zendesk.com/hc/pt-br), onde pude ter vários aprendizados e me desenvolver com projetos individuais e em grupo, podendo trabalhar bem minhas skills técnicas e pessoais! Além disso, também estou para entregar meu TCC e me formar no curso de Química pela [UFSC](https://ufsc.br/) 😁
+Sou apaixonada por viver novas experiências, conhecer novos lugares, pessoas e adquirir conhecimentos! 😁
 
 Você pode me achar aqui:
 
